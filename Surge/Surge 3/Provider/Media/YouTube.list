@@ -167,3 +167,24 @@ DOMAIN-SUFFIX,youtube-ui.l.google.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,ytimg.com
+
+# ============================================================
+# > === 合并自 geosite youtube (已去重) ===
+# ============================================================
+DOMAIN-SUFFIX,ggpht.cn
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,wide-youtube.l.google.com
+DOMAIN-SUFFIX,withyoutube.com
+DOMAIN-SUFFIX,youtube
+DOMAIN-SUFFIX,youtubefanfest.com
+DOMAIN-SUFFIX,youtubegaming.com
+DOMAIN-SUFFIX,youtubego.co.id
+DOMAIN-SUFFIX,youtubego.co.in
+DOMAIN-SUFFIX,youtubego.com
+DOMAIN-SUFFIX,youtubego.com.br
+DOMAIN-SUFFIX,youtubego.id
+DOMAIN-SUFFIX,youtubego.in
+DOMAIN-SUFFIX,youtubemobilesupport.com
+
+# > 精确域名
+DOMAIN,yt3.googleusercontent.com

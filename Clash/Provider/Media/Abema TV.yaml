@@ -3,7 +3,6 @@ payload:
   # - USER-AGENT,AbemaTV*
   - PROCESS-NAME,tv.abema
   - DOMAIN-SUFFIX,abema-tv.com
-  - DOMAIN-SUFFIX,abema.adx.promo
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,ameba.jp
@@ -15,3 +14,19 @@ payload:
   - DOMAIN-SUFFIX,linear-abematv.akamaized.net
   - DOMAIN-SUFFIX,vod-abematv.akamaized.net
   - DOMAIN-SUFFIX,vod-playout-abematv.akamaized.net
+
+  # ============================================================
+  # > === 合并自 geosite abema (已去重) ===
+  # ============================================================
+  - DOMAIN-SUFFIX,abematv.co.jp
+  - DOMAIN-SUFFIX,adx.promo
+  - DOMAIN-SUFFIX,amebame.com
+  - DOMAIN-SUFFIX,amebaownd.com
+  - DOMAIN-SUFFIX,amebaowndme.com
+  - DOMAIN-SUFFIX,ameblo.jp
+  - DOMAIN-SUFFIX,dokusho-ojikan.jp
+  - DOMAIN-SUFFIX,hayabusa.dev
+  - DOMAIN-SUFFIX,winticket.jp
+
+  # > 精确域名
+  - DOMAIN,abematv.akamaized.net

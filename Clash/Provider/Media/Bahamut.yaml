@@ -6,4 +6,8 @@ payload:
   - DOMAIN-SUFFIX,gamer.com.tw
   - DOMAIN,gamer-cds.cdn.hinet.net
   - DOMAIN,gamer2-cds.cdn.hinet.net
-  - DOMAIN,bahamut.akamaized.net
+
+  # ============================================================
+  # > === 合并自 geosite bahamut (已去重) ===
+  # ============================================================
+  - DOMAIN-SUFFIX,bahamut.akamaized.net

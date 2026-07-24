@@ -57,8 +57,6 @@ payload:
   - DOMAIN-SUFFIX,tryfunctions.com
   - DOMAIN-SUFFIX,windowsazure.cn
   - DOMAIN-SUFFIX,windowsazure.com
-  - DOMAIN-SUFFIX,azure.microsoft.com
-  - DOMAIN-SUFFIX,azuremarketplace.microsoft.com
 
   - DOMAIN-SUFFIX,bbing.com
   - DOMAIN-SUFFIX,bibg.com
@@ -114,11 +112,6 @@ payload:
   - DOMAIN-SUFFIX,renovacionoffice.com
   - DOMAIN-SUFFIX,sprinklesapp.com
   - DOMAIN-SUFFIX,working-bing-int.com
-  - DOMAIN-SUFFIX,bj1.api.bing.com
-  - DOMAIN-SUFFIX,emoi-cncdn.bing.com
-  - DOMAIN-SUFFIX,cn.bing.com
-  - DOMAIN-SUFFIX,cn.bing.net
-  - DOMAIN-SUFFIX,ditu.live.com
 
   - DOMAIN-SUFFIX,a-msedge.net
   - DOMAIN-SUFFIX,c-msedge.net
@@ -179,11 +172,6 @@ payload:
   - DOMAIN-SUFFIX,vfsforgit.com
   - DOMAIN-SUFFIX,vfsforgit.org
   - DOMAIN-SUFFIX,xamarin.com
-  - DOMAIN-SUFFIX,developer.microsoft.com
-  - DOMAIN-SUFFIX,dtlgalleryint.cloudapp.net
-  - DOMAIN-SUFFIX,poshtestgallery.cloudapp.net
-  - DOMAIN-SUFFIX,psg-int-centralus.cloudapp.net
-  - DOMAIN-SUFFIX,psg-int-eastus.cloudapp.net
 
   - DOMAIN-SUFFIX,microsoft-online.cn
   - DOMAIN-SUFFIX,microsoft-online.com.cn
@@ -230,10 +218,8 @@ payload:
   - DOMAIN-SUFFIX,onedrive.co.uk
   - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onedrive.eu
-  - DOMAIN-SUFFIX,onedrive.live.com
   - DOMAIN-SUFFIX,onedrive.net
   - DOMAIN-SUFFIX,onedrive.org
-  - DOMAIN-SUFFIX,storage.live.com
 
   - DOMAIN-SUFFIX,groupme.com
   - DOMAIN-SUFFIX,skype.com
@@ -322,8 +308,6 @@ payload:
   - DOMAIN-SUFFIX,acompli.net
   - DOMAIN-SUFFIX,aka.ms
   - DOMAIN-SUFFIX,ankarazirvesi2018.com
-  - DOMAIN-SUFFIX,applicationinsights.io
-  - DOMAIN-SUFFIX,applicationinsights.net
   - DOMAIN-SUFFIX,aria.ms
   - DOMAIN-SUFFIX,asp.net
   - DOMAIN-SUFFIX,aspnetcdn.com
@@ -448,7 +432,6 @@ payload:
   - DOMAIN-SUFFIX,microsoftadvertising.com
   - DOMAIN-SUFFIX,microsoftadvertisingregionalawards.com
   - DOMAIN-SUFFIX,microsoftaffiliates.com
-  - DOMAIN-SUFFIX,microsoftapps.azurewebsites.net
   - DOMAIN-SUFFIX,microsoftazuread-sso.com
   - DOMAIN-SUFFIX,microsoftcloud.com
   - DOMAIN-SUFFIX,microsoftcloudworkshop.com
@@ -574,8 +557,6 @@ payload:
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windows-int.net
   - DOMAIN-SUFFIX,windows-ppe.net
-  - DOMAIN-SUFFIX,windows.com
-  - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,windows.nl
   - DOMAIN-SUFFIX,windows8.hk
   - DOMAIN-SUFFIX,windowscommunity.net
@@ -607,3 +588,44 @@ payload:
   - DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-eus-ms-com.akamaized.net
   - DOMAIN-SUFFIX,statics-marketingsites-wcus-ms-com.akamaized.net
+
+  # ============================================================
+  # > === 合并自 geosite microsoft (已去重) ===
+  # ============================================================
+  - DOMAIN-SUFFIX,asobostudio.com
+  - DOMAIN-SUFFIX,azure-api.net
+  - DOMAIN-SUFFIX,azure-devices-int.net
+  - DOMAIN-SUFFIX,azure-devices.net
+  - DOMAIN-SUFFIX,doom.com
+  - DOMAIN-SUFFIX,elderscrolls.com
+  - DOMAIN-SUFFIX,flightsimulator.com
+  - DOMAIN-SUFFIX,forza.net
+  - DOMAIN-SUFFIX,l-msedge.net
+  - DOMAIN-SUFFIX,microsoft-falcon.io
+  - DOMAIN-SUFFIX,microsoftapp.net
+  - DOMAIN-SUFFIX,microsoftpersonalcontent.com
+  - DOMAIN-SUFFIX,microsoftstart.com
+  - DOMAIN-SUFFIX,minecraft-services.net
+  - DOMAIN-SUFFIX,minecraftservices.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,mshome.net
+  - DOMAIN-SUFFIX,onedrive
+  - DOMAIN-SUFFIX,onedriveupdater
+  - DOMAIN-SUFFIX,s-dc-msedge.net
+  - DOMAIN-SUFFIX,spo-msedge.net
+  - DOMAIN-SUFFIX,start.com
+  - DOMAIN-SUFFIX,t-msedge.net
+  - DOMAIN-SUFFIX,windows
+  - DOMAIN-SUFFIX,xbox
+
+  # > 精确域名
+  - DOMAIN,copilot-proxy.githubusercontent.com
+  - DOMAIN,copilot-workspace.githubnext.com
+  - DOMAIN,github-api.arkoselabs.com
+  - DOMAIN,github-cloud.s3.amazonaws.com
+  - DOMAIN,github-production-release-asset-2e65be.s3.amazonaws.com
+  - DOMAIN,github-production-repository-file-5c1aeb.s3.amazonaws.com
+  - DOMAIN,github-production-repository-image-32fea6.s3.amazonaws.com
+  - DOMAIN,github-production-upload-manifest-file-7fdce7.s3.amazonaws.com
+  - DOMAIN,github-production-user-asset-6210df.s3.amazonaws.com
+  - DOMAIN,vsmarketplacebadge.apphb.com

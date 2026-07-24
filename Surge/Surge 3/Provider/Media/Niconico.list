@@ -1,5 +1,4 @@
 # > Niconico
-DOMAIN-SUFFIX,dmc.nico
 DOMAIN-SUFFIX,nicovideo.jp
 DOMAIN-SUFFIX,nicodic.jp
 DOMAIN-SUFFIX,nicomanga.jp
@@ -8,3 +7,8 @@ DOMAIN-SUFFIX,nicoseiga.jp
 DOMAIN-SUFFIX,nimg.jp
 DOMAIN-SUFFIX,simg.jp
 DOMAIN-SUFFIX,socdm.com
+
+# ============================================================
+# > === 合并自 geosite niconico (已去重) ===
+# ============================================================
+DOMAIN-SUFFIX,nico

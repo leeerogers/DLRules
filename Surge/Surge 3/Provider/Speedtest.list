@@ -9,3 +9,21 @@ DOMAIN,speed.dler.io
 
 # > Speed Test by Cloudflare
 DOMAIN-SUFFIX,speed.cloudflare.com
+
+# ============================================================
+# > === 合并自 geosite speedtest (已去重) ===
+# ============================================================
+DOMAIN-SUFFIX,cdnst.net
+DOMAIN-SUFFIX,cellmaps.com
+DOMAIN-SUFFIX,ekahau.cloud
+DOMAIN-SUFFIX,ekahau.com
+DOMAIN-SUFFIX,ookla-speedtest-central.hgconair.hgc.com.hk
+DOMAIN-SUFFIX,ookla.com
+DOMAIN-SUFFIX,pingtest.net
+DOMAIN-SUFFIX,speedtest.co
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,speedtestcustom.com
+DOMAIN-SUFFIX,webtest.net
+
+# > 精确域名
+DOMAIN,www.speedtest.net.cdn.cloudflare.net
