@@ -2,3 +2,14 @@
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,ykimg.com
+
+# ============================================================
+# > === 合并自 geosite youku (已去重) ===
+# ============================================================
+DOMAIN-SUFFIX,9xsecndns.cn
+DOMAIN-SUFFIX,kumiao.com
+DOMAIN-SUFFIX,mmstat.com
+DOMAIN-SUFFIX,tudou.com
+DOMAIN-SUFFIX,youku.tv
+DOMAIN-SUFFIX,youkuhonor.com
+DOMAIN-SUFFIX,youkuplay.com
